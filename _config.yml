@@ -16,16 +16,16 @@
 title: Security Assignments
 email: dave@daveeargle.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Security labs for a university course, "Information Security Management."
+  Security labs for a UDel MISY courses
   Authors Dave Eargle and Anthony Vance
 baseurl: "/security-assignments" # the subpath of your site, e.g. /blog
-url: "https://daveeargle.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://johndarcymis.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deargle
-github_username:  deargle
-repository: 'deargle/security-assignments'
+github_username:  misysecurity
+repository: 'misysecurity/security-assignments'
 
-instructorcollab_username: deargle
-instructorcollab_domain: colorado.edu
+instructorcollab_username: jdarcy
+instructorcollab_domain: udel.edu
 
 # Build settings
 markdown: kramdown
@@ -61,7 +61,7 @@ collections:
         output: true
     tutorials:
         output: true
-        
+
 defaults:
     -
         scope:
@@ -80,4 +80,3 @@ defaults:
             type: "activities"
         values:
             layout: assignment
-        
