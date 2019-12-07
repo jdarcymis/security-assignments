@@ -6,8 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link type="text/plain" rel="author" href="{{ site.baseurl }}/humans.txt" />
   <link rel="shortcut icon" href="/favicon.ico?v={{ site.github.build_revision }}">
-  
-  {% if site.instructorcollab_username == 'deargle' %}
+
+  {% if site.instructorcollab_username == 'jdarcy' %}
       <link href="{{ site.baseurl }}/assets/css/bootstrap-custom-darkly.css?v={{ site.github.build_revision }}" rel="stylesheet" media="screen">
       {% assign navbar-class = 'navbar-dark bg-primary' %}
   {% elsif site.instructorcollab_username == 'aov' %}
@@ -19,16 +19,16 @@
     rel="stylesheet"
     href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css"
     />
-  
+
   <script src="https://kit.fontawesome.com/c20024392b.js"></script>
-  
+
   {% if jekyll.environment == "production" %}
-      {% include seo_stuff.html %}      
+      {% include seo_stuff.html %}
   {% endif %}
 
 </head>
-<body 
-    class="{{ page.layout }} post{{ page.id | replace:'/','-' }}" 
+<body
+    class="{{ page.layout }} post{{ page.id | replace:'/','-' }}"
     id="{{ page.id }}"
     data-spy="scroll" data-target="#toc"
     >

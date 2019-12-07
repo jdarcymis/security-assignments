@@ -7,7 +7,7 @@ published: true
 
 # Part 1. Complete this very gentle introduction to the Linux terminal
 
-CodeAcademy has an [introductory set of lessons](https://www.codecademy.com/learn/learn-the-command-line) that teach the Linux Terminal. 
+CodeAcademy has an [introductory set of lessons](https://www.codecademy.com/learn/learn-the-command-line) that teach the Linux Terminal.
 You should complete the first lesson-set within each module:
 
 1. Navigating the File System
@@ -20,13 +20,13 @@ You should complete the first lesson-set within each module:
     1. [Environment](https://www.codecademy.com/courses/learn-the-command-line/lessons/environment/resume)
 
 You do _not_ need to do any of the "projects" or multiple choice quizzes. Just the lesson-sets.
-  
-<div class='alert alert-info'><strong>Heads up! </strong>Codeacademy recently started charging for access to this set of lessons. As of 9/4/2019, you get free access for seven days, after which 
+
+<div class='alert alert-info'><strong>Heads up! </strong>Codeacademy recently started charging for access to this set of lessons. As of 9/4/2019, you get free access for seven days, after which
 you can pay for access for $40 per month. These lessons are not strictly necessary for completing this class, but you may opt to pay if you enjoy the learning style. Alternatively, Udacity
 has a <a href='https://www.udacity.com/course/linux-command-line-basics--ud595'>free set of follow-along video lecture demonstrations</a> which you may enjoy.</div>
 
 
-  
+
 # Part 2. Play the Bandit wargame on OvertheWire.org
 
 Play the [Bandit wargame on OvertheWire.org](http://overthewire.org/wargames/bandit/). Start at Level 0 and complete Level 15 (which gives you the password for Level 16).
@@ -75,12 +75,12 @@ To continue logging in, type `yes` and press `enter`.
 
 # Deliverable
 
-{% if site.instructorcollab_username == 'deargle' %}
+{% if site.instructorcollab_username == 'jdarcy' %}
 
 Make it all the way to level 16. When you have reached level 16, prove it by taking a screenshot of your ssh terminal session showing:
-* you logged in as `bandit16@bandit` in the prompt. 
+* you logged in as `bandit16@bandit` in the prompt.
 * your name
-* the date. 
+* the date.
 
 For example:
 
@@ -88,7 +88,7 @@ For example:
 
 
 {% elsif site.instructorcollab_username == 'aov' %}
-For each level you complete, take a screenshot of your terminal screen showing the following: 
+For each level you complete, take a screenshot of your terminal screen showing the following:
 
 * Show the password for the next level.
 * Run the `date` command to show the current date.
@@ -146,7 +146,7 @@ The CodeAcademy lessons above give you basic exposure to the `nano` text editor.
 	- Chapter 7
 		- 7.2.5
 		- 7.5.3.2
-- Also learn about 
+- Also learn about
 	- <a href='https://www.linux.com/learn/linux-101-introduction-sudo'>sudo</a>
 	- man id
 	- man 5 passwd
