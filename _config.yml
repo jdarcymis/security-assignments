@@ -29,7 +29,7 @@ instructorcollab_domain: udel.edu
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
