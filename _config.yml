@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: Security Assignments
 email: dave@daveeargle.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -30,7 +30,7 @@ instructorcollab_domain: udel.edu
 
 # Build settings
 markdown: kramdown
-#theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
