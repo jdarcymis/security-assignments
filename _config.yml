@@ -80,3 +80,5 @@ defaults:
             type: "activities"
         values:
             layout: assignment
+
+theme: jekyll-theme-slate
