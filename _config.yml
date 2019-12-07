@@ -19,10 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Security labs for a UDel MISY courses
   Authors Dave Eargle and Anthony Vance
 baseurl: "/security-assignments" # the subpath of your site, e.g. /blog
-url: "https://misysecurity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jdarcymis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deargle
-github_username:  misysecurity
-repository: 'misysecurity/security-assignments'
+github_username:  jdarcymis
+repository: 'jdarcymis/security-assignments'
 
 instructorcollab_username: jdarcy
 instructorcollab_domain: udel.edu
