@@ -1,5 +1,5 @@
 ---
-title: Information Security Management | Assignments
+title: Information Security | Assignments
 ---
 
 # {{ page.title }}
@@ -13,6 +13,3 @@ title: Information Security Management | Assignments
 ## [Reading Topics]( {{ '/readings/' | relative_url }})
 
 ## [In-class Activities]({{ '/activities/' | relative_url }})
-
-
-

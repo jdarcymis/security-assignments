@@ -1,5 +1,5 @@
 ---
-title: Information Security Management | Readings
+title: Information Security | Readings
 regenerate: true
 layout: assignment
 ---

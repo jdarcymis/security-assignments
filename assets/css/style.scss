@@ -1,8 +1,8 @@
 ---
 ---
-body { 
+body {
     /* padding-top: 20px; */
-    font-weight: 200; 
+    font-weight: 200;
 }
 @media (max-width: 768px) {
     body { padding-top: 0; }
@@ -104,7 +104,7 @@ body {
 
 @import "svg-icons";
 
-	
+
 dt {
     margin-top: 5px;
 }
@@ -149,3 +149,13 @@ nav[data-toggle="toc"] {
   }
   */
 }
+
+// .brand-logo {
+//    width: 100px;
+//    height: auto;
+//    border-radius: 100%;
+//    overflow: hidden;
+//    margin-top: auto;
+//    margin-right: auto;
+//    margin-left: auto;
+// }
